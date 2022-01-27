@@ -1,8 +1,0 @@
-{
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "amqp-client-5.14.1.jar",
-        "slf4j-api-1.7.9.jar",
-        "slf4j-simple-1.7.9.jar"
-    ]
-}
