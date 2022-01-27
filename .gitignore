@@ -1,0 +1,5 @@
+.idea/*
+scala/target/*/*/*
+scala/project/target/*
+.bsp
+*.iml
